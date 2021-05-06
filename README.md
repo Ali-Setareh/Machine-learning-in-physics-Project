@@ -1,2 +1,2 @@
 # Machine-learning-in-physics-
-This is the repo for MLP project Spring 2021: Success in movies 
+This is the repo for Machine learning in physics course project Spring 2021: Success in movies. In this project we want to develop a machine learning model that can successfully predict the worlwide gross of movies before they release. We use IMDB.com and boxofficemojo.com to gather information about movies. We focused on the US market from 2010 to 2019 and gahter features such as worldwide gross, domestic gross, budget, distributors, IMDB score and etc for each movie.   
