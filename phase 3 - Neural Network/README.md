@@ -1,1 +1,1 @@
-In this phase we tried neural network on our data.
+In this phase we tried neural network on our data. The two main notebook for this part is "nn on v3" and regular regression. The data that we worked on is final_data_v3.csv. Our report file is in report folder. 
